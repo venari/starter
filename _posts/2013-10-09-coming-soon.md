@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
-title: ""
+published: true
+title: New site coming soon...
 ---
 
 ## A New Post
