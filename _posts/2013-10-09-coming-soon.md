@@ -5,8 +5,6 @@ published: true
 title: New site coming soon...
 ---
 
-## A New Post
+## New Website coming soon....
 
-Website coming soon....
-
-In the meantime, you can reach me at: [@leighghunt](twitter.com/leighghunt)
+In the meantime, you can reach me at: [@leighghunt](http://twitter.com/leighghunt)
